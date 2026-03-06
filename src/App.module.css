@@ -1,0 +1,30 @@
+.box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    flex-direction: column;
+    background-color:  white;
+    width: 500px;
+    margin: 0 auto;
+}
+
+.value{
+    font-size: 50px;
+    margin-bottom: 20px;
+    color: red;
+}
+
+.wrapper{
+    display: flex;
+    gap: 30px;
+}
+
+.btn{
+    padding: 15px 20px;
+    background-color: green;
+    color: white;
+    font-size: 30px;
+    border-radius: 10px;
+    
+}
