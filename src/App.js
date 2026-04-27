@@ -1,5 +1,5 @@
 import "modern-normalize";
-import { TaskList } from "./components/TasksList/TaskList";
+import  TaskList  from "./components/TasksList/TaskList";
 
 function App() {
   return (
